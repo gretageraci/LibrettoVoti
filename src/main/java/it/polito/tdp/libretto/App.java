@@ -22,6 +22,7 @@ public class App extends Application {
 
     	stage.setScene(scene);
         stage.show();
+        //COMMENTO
     }
 
     public static void main(String[] args) {
